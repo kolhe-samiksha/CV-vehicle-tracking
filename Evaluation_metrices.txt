@@ -1,0 +1,12 @@
+Evaluation metrices for object detection and tracking:
+
+1. FPR - required confuion_metrics values - ground_truth & predicted_vals - 
+2. FAR - false alarm rate- it provides measure of the likelihood that a detected target is correclty reported.
+3. Detection Rate -  
+4. FNR - 
+5. TNR - 
+6. Accuracy,Precision,Recall, Precision, Recall, F-measure, ROC.
+7. DET curve -
+8. Time detection Lag - 
+9. Object-Localization metrics - 
+
